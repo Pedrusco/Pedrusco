@@ -6,7 +6,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=pedrusco&show_icons=true&theme=radical" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrusco&layout=compact&theme=radical" alt="languages" height="150"/>
 </p>
@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 Tech Stack  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -27,7 +27,7 @@
 ---
 
 ### 📫 Contact
-<p align="center">
+<p>
   <a href="mailto:pedrusco.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/pedrusco/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
@@ -35,6 +35,6 @@
 ---
 
 ### 🔥 Contributions
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrusco&theme=radical" alt="streak"/>
 </p>
