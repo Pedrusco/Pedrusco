@@ -38,6 +38,4 @@
 ---
 
 ### 🔥 Contributions
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrusco&theme=radical" alt="streak"/>
-</p>
+![snake gif](https://github.com/pedrusco/pedrusco/blob/output/snake.svg)
